@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\obj\Debug\net8.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\obj\Debug\net8.0\Bai3.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\obj\Debug\net8.0\Bai3.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\obj\Debug\net8.0\Bai3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\bin\Debug\net8.0\Bai3.exe
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\bin\Debug\net8.0\Bai3.deps.json
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\bin\Debug\net8.0\Bai3.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\bin\Debug\net8.0\Bai3.dll
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\bin\Debug\net8.0\Bai3.pdb
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\obj\Debug\net8.0\Bai3.dll
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\obj\Debug\net8.0\refint\Bai3.dll
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\obj\Debug\net8.0\Bai3.pdb
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\obj\Debug\net8.0\Bai3.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Máy tính\UEH\CTDLGT\CTDLGT-Buoi02-35253020206\Bai3\obj\Debug\net8.0\ref\Bai3.dll
